@@ -20,20 +20,20 @@
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Azure-ttk-theme&theme=slateorange">
+<a href="https://github.com/rdbende/Azure-ttk-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Azure-ttk-theme&theme=slateorange"></a>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Forest-ttk-theme&theme=slateorange">
+<a href="https://github.com/rdbende/Forest-ttk-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Forest-ttk-theme&theme=slateorange"></a>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=tkinterDnD&theme=slateorange">
+<a href="https://github.com/rdbende/tkinterDnD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=tkinterDnD&theme=slateorange"></a>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=tkcode&theme=slateorange">
+<a href="https://github.com/rdbende/tkcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=tkcode&theme=slateorange"></a>
 </td>
 
 </tr>
@@ -43,18 +43,18 @@
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akuli&repo=porcupine&theme=slateorange">
+<a href="https://github.com/Akuli/porcupine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akuli&repo=porcupine&theme=slateorange"></a>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TkinterEP&repo=ttkwidgets&theme=slateorange">
+<a href="https://github.com/TkinterEP/ttkwidgets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TkinterEP&repo=ttkwidgets&theme=slateorange"></a>
 </td>
 
 </tr>
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TkinterEP&repo=ttkthemes&theme=slateorange">
+<a href="https://github.com/TkinterEP/ttkthemes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TkinterEP&repo=ttkthemes&theme=slateorange"></a>
 </td>
 
 </tr>
