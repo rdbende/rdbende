@@ -1,4 +1,4 @@
-### Hi there, I'm rdbende 👋
+### Hey, I'm rdbende 👋
 
 <br>
 
@@ -8,7 +8,7 @@
 - :diamond_shape_with_a_dot_inside: Fun fact: tkinter is nice!
 - :snake: I love doing stuff with Python and Tkinter
 - :mailbox: You can reach me at rdbende@gmail.com
-- :penguin: btw I use KDE neon
+- :penguin: Linux user (mostly with KDE dextop)
 
 <br><br>
 
