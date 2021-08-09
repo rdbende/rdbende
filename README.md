@@ -8,9 +8,9 @@
 - :diamond_shape_with_a_dot_inside: Fun fact: tkinter is nice!
 - :snake: I love doing stuff with Python and Tkinter
 - :mailbox: You can reach me at rdbende@gmail.com
-- :penguin: Linux user (mostly with KDE dextop)
+- :penguin: Linux user (mostly with Plasma dextop)
 
-<br><br>
+<br>
 
 #### I mostly create or contribute to tkinter projects. There are quite a few of them:
 
@@ -30,6 +30,17 @@
   
 <td>
 <a href="https://github.com/rdbende/Forest-ttk-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Forest-ttk-theme&theme=slateorange"></a>
+</td>
+
+<td>
+<a href="https://github.com/rdbende/Sun-Valley-ttk-theme-svg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Sun-Valley-ttk-theme-svg&theme=slateorange"></a>
+</td>
+
+</tr>
+<tr>
+  
+<td>
+<a href="https://github.com/rdbende/Sun-Valley-ttk-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rdbende&repo=Sun-Valley-ttk-examples&theme=slateorange"></a>
 </td>
   
 <td>
