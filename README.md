@@ -4,6 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rdbende&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&theme=slateorange">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdbende&custom_title=My%20most%20used%20languages"> This is irrelevant. My most used language is Python, not Tcl! -->
+![metrics.lecoq.io](https://metrics.lecoq.io/rdbende)
 
 - :diamond_shape_with_a_dot_inside: Fun fact: tkinter is nice!
 - :snake: I love doing stuff with Python and Tkinter
