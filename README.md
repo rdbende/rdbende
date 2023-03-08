@@ -5,7 +5,7 @@
 - :heart_eyes_cat: You might wanna check out my Tkinter/ttk themes. With them you can even make Tkinter look like <kbd>Windows 11</kbd>: [Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
 - :musical_keyboard: I'm also interested in synths and electronic music, maybe you'll see related projects coming
 - :penguin: Permanent <kbd>GNU plus Linux</kbd> user (Debian Sid with Plasma dextop)
-- :mailbox: Feel free to contact me at rdbende@gmail.com
+- :mailbox: Feel free to contact me at rdbende@proton.me
 
 <br>
 <p align="center">
