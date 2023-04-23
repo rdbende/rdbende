@@ -2,11 +2,10 @@
 
 
 - :snake: I love Python, and I love to make beautiful GUIs with it, especially with tkinter and [Tukaan](https://github.com/tukaan/tukaan)!
-- :heart_eyes_cat: You might wanna check out my tkinter/ttk themes. You can make tkinter look like <kbd>Windows 11</kbd> - [Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
+- :heart_eyes_cat: You might wanna check out my tkinter/ttk themes. You can make tkinter look like **Windows 11** - [Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
 - :musical_keyboard: I'm also interested in synths and electronic music, maybe you'll see related projects coming
-- :penguin: Permanent <kbd>GNU plus Linux</kbd> user (Debian Sid with Plasma dextop)
-- :mailbox: Feel free to<br>
-    [<kbd> <br> Contact me in email <br><br></kbd>](mailto:rdbende@proton.me)
+- :penguin: Permanent `GNU plus Linux` user (Debian Sid with Plasma dextop)
+- :mailbox: Feel free to [<kbd> <br> Contact me in email <br><br></kbd>](mailto:rdbende@proton.me)
 
 <br>
 <p align="center">
