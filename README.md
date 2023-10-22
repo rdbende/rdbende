@@ -9,5 +9,5 @@
 
 </br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdbende&show_icons=true&count_private=true&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=20&include_all_commits=true&line_height=30">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdbende&show_icons=true&count_private=true&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=20&include_all_commits=true&line_height=30&custom_title=My%20GitHub%20Stats">
 </p>
