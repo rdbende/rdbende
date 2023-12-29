@@ -1,10 +1,11 @@
 ### Hello, I'm rdbende :wave:
 
-- :snake: I like making beautiful user interfaces with Python and Tkinter
-- :heart_eyes_cat: You might wanna check out my ttk themes. They can even make Tkinter look like **Windows 11**: [Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
-- :crab: Lately I've been into GUI development using Rust and GTK 4
+- :snake: Most of the time I'm programming in Python. I like making GUIs with GTK4 and sometimes with Tkinter.
+- :heart_eyes_cat: You might wanna check out my themes for Tkinter. The [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) can even make it look like **Windows 11**!
+- :crab: Lately I've been into GUI development using `gtk-rs`
 - :musical_keyboard: I'm also interested in sound engineering, synths and electronic music, you can find some related projects on my profile
-- :penguin: Permanent Linux user :muscle: (Fedora with Vanilla GNOME)
+- :penguin: My distro of choice is Fedora Silverblue :footprints:
+- :elephant: If you're interested in what I'm working at the moment, check out [my Mastodon profile](https://mastodon.social/@rdbende)
 - :mailbox: Feel free to [contact me via email](mailto:rdbende@proton.me), or [chat with me on Matrix](https://matrix.to/#/@rdbende:matrix.org)
 
 </br>
