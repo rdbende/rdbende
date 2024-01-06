@@ -5,7 +5,7 @@
 - :crab: Lately I've been into GUI development using `gtk-rs`
 - :musical_keyboard: I'm also interested in sound engineering, synths and electronic music, you can find some related projects on my profile
 - :penguin: My distro of choice is Fedora Silverblue :footprints:
-- :elephant: If you're interested in what I'm working at the moment, check out [my Mastodon profile](https://mastodon.social/@rdbende)
+- :elephant: If you're interested in what I'm working on at the moment, check out [my Mastodon profile](https://mastodon.social/@rdbende)
 - :mailbox: Feel free to [contact me via email](mailto:rdbende@proton.me), or [chat with me on Matrix](https://matrix.to/#/@rdbende:matrix.org)
 
 </br>
